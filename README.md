@@ -103,7 +103,7 @@ url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=YOUR_API_KEY&langu
 
 ## 📸 Screenshots
 
-*(Optional) Add a screenshot or two of your app running to help others understand what it looks like.*
+![image alt](https://github.com/upangshu1234/Movie-Recommender-System/blob/90768ffd1375ed982b2142168839b2a031bc1be7/Screenshot%202025-06-16%20at%2011.38.59%20AM.png)
 
 ---
 
