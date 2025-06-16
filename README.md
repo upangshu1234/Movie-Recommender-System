@@ -2,13 +2,6 @@
 
 A content-based movie recommender system built using machine learning and deployed using Streamlit. This app suggests movies based on textual metadata like genres, cast, crew, keywords, and overview.
 
----
-
-## 🚀 Demo
-
-![App Screenshot](assets/preview.png)
-
-You can try the live demo (optional): [Link if deployed using Streamlit Sharing or any service]
 
 ---
 
@@ -146,5 +139,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    ```
 
 ---
-
-Would you like me to generate a downloadable `.zip` of the whole starter GitHub project structure?
